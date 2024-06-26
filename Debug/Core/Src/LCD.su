@@ -1,0 +1,16 @@
+LCD.c:33:6:WriteBus	24	static
+LCD.c:66:6:WriteCommand	16	static
+LCD.c:72:6:WriteData	16	static
+LCD.c:77:6:Init	8	static
+LCD.c:165:6:Address	24	static
+LCD.c:179:6:IdleMode	16	static
+LCD.c:185:6:PixelFormat	16	static
+LCD.c:192:6:Rectangle	32	static
+LCD.c:201:9:CharXY08	40	static
+LCD.c:225:6:CharXY16	40	static
+LCD.c:273:6:CharXY32	40	static
+LCD.c:317:6:StrXY08	48	static
+LCD.c:333:6:StrXY16	48	static
+LCD.c:359:6:StrXY32	48	static
+LCD.c:388:6:StrCenter16	48	static
+LCD.c:408:6:StrCenter32	48	static

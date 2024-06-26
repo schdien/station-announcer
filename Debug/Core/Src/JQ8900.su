@@ -1,0 +1,3 @@
+JQ8900.c:6:6:JQ8900_commandData	40	dynamic
+JQ8900.c:24:6:JQ8900_inReport	24	static
+JQ8900.c:30:6:JQ8900_outReport	24	static

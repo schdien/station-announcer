@@ -1,0 +1,5 @@
+audio.c:19:6:WriteCommandData	40	dynamic
+audio.c:38:6:In	24	static
+audio.c:44:6:Out	24	static
+audio.c:50:6:Tips	16	static
+audio.c:56:6:Stop	8	static
